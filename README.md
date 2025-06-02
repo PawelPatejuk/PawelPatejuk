@@ -1,7 +1,16 @@
 ## Hi, I'm Paweł 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelPatejuk&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawelPatejuk&layout=compact&theme=transparent)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=PawelPatejuk&show_icons=true&theme=transparent" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawelPatejuk&layout=compact&theme=transparent" width="400"/>
+    </td>
+  </tr>
+</table>
+
 
 
 

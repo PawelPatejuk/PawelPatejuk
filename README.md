@@ -1,39 +1,7 @@
-<picture>
-  <!-- Dark mode image -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PawelPatejuk&show_icons=true&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <!-- Light mode image -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PawelPatejuk&show_icons=true&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <!-- Fallback image -->
-  <img
-    alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=PawelPatejuk&show_icons=true&theme=default&hide_border=true"
-  />
-</picture>
+## Hi, I'm Paweł 👋
 
-<picture>
-  <!-- Dark mode image -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PawelPatejuk&layout=compact&theme=dark&langs_count=4&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <!-- Light mode image -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PawelPatejuk&layout=compact&theme=default&langs_count=4&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <!-- Fallback image -->
-  <img
-    alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawelPatejuk&layout=compact&theme=default&langs_count=4&hide_border=true"
-  />
-</picture>
-
+<img alt="stats" align="left" width=47.5% src="https://github-readme-stats.vercel.app/api?username=PawelPatejuk&show_icons=true&theme=transparent" width="400"/>
+<img alt="langs" align="right" width=47.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawelPatejuk&layout=compact&theme=transparent&langs_count=4" width="400"/>
 
 
 
